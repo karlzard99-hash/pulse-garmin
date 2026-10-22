@@ -1,0 +1,7 @@
+.env
+.garmin-tokens/
+data/
+.venv/
+variants/data.js
+variants/workouts.js
+variants/pulse.html
